@@ -1,3 +1,4 @@
+import numpy as np
 
 ######
 ## Functions common to all methods
